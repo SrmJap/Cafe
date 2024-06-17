@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.anuncio {
+   width: 800px;
+   height: 400px;
+  
+}
+.anucion_2layer {
+  width: 700px;
+  height: 350px;
+ 
+
+}
+.menu01 {
+ background-color: #D5CFB1;
+}
+
+.menu02 {
+  background-color: #F0EAD4;
+}
